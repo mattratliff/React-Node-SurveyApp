@@ -1,0 +1,1 @@
+//template that is used to define a survey
